@@ -1,0 +1,10 @@
+E:\VoiceInputSystem\VoiceInputSystem\bin\Debug\VoiceInputSystem.exe.config
+E:\VoiceInputSystem\VoiceInputSystem\bin\Debug\VoiceInputSystem.exe
+E:\VoiceInputSystem\VoiceInputSystem\bin\Debug\VoiceInputSystem.pdb
+E:\VoiceInputSystem\VoiceInputSystem\obj\Debug\VoiceInputSystem.csprojAssemblyReference.cache
+E:\VoiceInputSystem\VoiceInputSystem\obj\Debug\VoiceInputSystem.vcInputSystem.resources
+E:\VoiceInputSystem\VoiceInputSystem\obj\Debug\VoiceInputSystem.Properties.Resources.resources
+E:\VoiceInputSystem\VoiceInputSystem\obj\Debug\VoiceInputSystem.csproj.GenerateResource.cache
+E:\VoiceInputSystem\VoiceInputSystem\obj\Debug\VoiceInputSystem.csproj.CoreCompileInputs.cache
+E:\VoiceInputSystem\VoiceInputSystem\obj\Debug\VoiceInputSystem.exe
+E:\VoiceInputSystem\VoiceInputSystem\obj\Debug\VoiceInputSystem.pdb
